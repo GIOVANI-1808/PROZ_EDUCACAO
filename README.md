@@ -1,14 +1,14 @@
 
 
-<img src="https://blog.foxmanager.com.br/wp-content/uploads/2020/06/importancia-tecnologia-da-informacao-na-empresa.jpg" width="200">
+<img src="https://blog.foxmanager.com.br/wp-content/uploads/2020/06/importancia-tecnologia-da-informacao-na-empresa.jpg" width="300">
 
 
-# Seu Projeto
+# GUIA DE ESTUDOS
 
 Descrição do seu projeto...
 
 Restante do conteúdo do README.md...
-<<<<<<< HEAD
+<<<<<<< HEA
 =======
 =======
 ====================================

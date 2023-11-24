@@ -1,3 +1,4 @@
+
 ![Banner](https://blog.foxmanager.com.br/wp-content/uploads/2020/06/importancia-tecnologia-da-informacao-na-empresa.jpg)
 
 # Seu Projeto
@@ -5,6 +6,8 @@
 Descrição do seu projeto...
 
 Restante do conteúdo do README.md...
+=======
+>>>>>>> 4263661a0c3d65c21e4add123525201dcac75d2b
 
 # Seja Bem-Vindo ao Meu GitHub
 

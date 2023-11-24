@@ -31,22 +31,11 @@ Este GitHub foi criado para armazenar materiais de estudo e projetos relacionado
    - [Khan Academy - Introdução à Programação](https://www.khanacademy.org/computing/computer-programming)
 
 ## 6. Estudos sobre IA:
-   Coursera (Curso Online Gratuito):
+   - [Coursera - Curso de Machine Learning do Andrew Ng](https://www.coursera.org/learn/machine-learning)
+   - [edX - Introdução à Inteligência Artificial (MIT)](https://www.edx.org/professional-certificate/introduction-to-artificial-intelligence)
+   - [Udacity - Nanodegree em Inteligência Artificial](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898)
+   - [Kaggle - Kaggle Courses - Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+   - [Kaggle - Kaggle Courses - Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
+   - [Fast.ai - Curso Prático de Deep Learning para Programadores](https://course.fast.ai/)
+   - [TensorFlow - TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
 
-Curso de Machine Learning do Andrew Ng
-edX (Curso Online Gratuito):
-
-Introdução à Inteligência Artificial (MIT)
-Udacity:
-
-Nanodegree em Inteligência Artificial
-Kaggle (Plataforma de Competição e Aprendizado):
-
-Kaggle Courses - Intro to Machine Learning
-Kaggle Courses - Machine Learning Explainability
-Fast.ai (Curso Gratuito de Deep Learning):
-
-Curso Prático de Deep Learning para Programadores
-TensorFlow (Documentação e Tutoriais):
-
-TensorFlow Tutorials

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Seja Bem-Vindo ao Meu GitHub
 
 Este GitHub foi criado para armazenar materiais de estudo e projetos relacionados aos seguintes tópicos:

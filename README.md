@@ -1,4 +1,11 @@
-<<<<<<< HEAD
+![Banner](https://blog.foxmanager.com.br/wp-content/uploads/2020/06/importancia-tecnologia-da-informacao-na-empresa.jpg)
+
+# Seu Projeto
+
+Descrição do seu projeto...
+
+Restante do conteúdo do README.md...
+
 # Seja Bem-Vindo ao Meu GitHub
 
 Este GitHub foi criado para armazenar materiais de estudo e projetos relacionados aos seguintes tópicos:

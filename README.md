@@ -1,3 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seu Projeto</title>
+  <style>
+    body {
+      background-image: url('https://blog.foxmanager.com.br/wp-content/uploads/2020/06/importancia-tecnologia-da-informacao-na-empresa.jpg');
+      background-size: cover;
+      color: #fff; /* Cor do texto para contrastar com a imagem de fundo */
+      padding: 20px; /* Adicione algum preenchimento para garantir que o conteúdo não fique muito próximo às bordas */
+      font-family: Arial, sans-serif; /* Escolha a fonte desejada */
+    }
+
+    #content {
+      background: rgba(0, 0, 0, 0.7); /* Adicione um fundo semi-transparente ao conteúdo para melhorar a legibilidade */
+      padding: 20px;
+      border-radius: 10px; /* Adicione bordas arredondadas para o conteúdo */
+    }
+
+    h1, h2, h3 {
+      color: #fff; /* Garanta que os cabeçalhos sejam visíveis sobre o fundo escuro */
+    }
+  </style>
+</head>
+<body>
+
+  <div id="content">
+
+    <h1>Seu Projeto</h1>
+
+    <p>Descrição do seu projeto...</p>
+
+    <!-- Restante do conteúdo -->
+
+  </div>
+
+</body>
+</html>
 
 ![Banner](https://blog.foxmanager.com.br/wp-content/uploads/2020/06/importancia-tecnologia-da-informacao-na-empresa.jpg)
 

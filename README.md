@@ -30,4 +30,23 @@ Este GitHub foi criado para armazenar materiais de estudo e projetos relacionado
 ## 5. Estudos sobre Lógica de Programação:
    - [Khan Academy - Introdução à Programação](https://www.khanacademy.org/computing/computer-programming)
 
+## 6. Estudos sobre IA:
+   Coursera (Curso Online Gratuito):
 
+Curso de Machine Learning do Andrew Ng
+edX (Curso Online Gratuito):
+
+Introdução à Inteligência Artificial (MIT)
+Udacity:
+
+Nanodegree em Inteligência Artificial
+Kaggle (Plataforma de Competição e Aprendizado):
+
+Kaggle Courses - Intro to Machine Learning
+Kaggle Courses - Machine Learning Explainability
+Fast.ai (Curso Gratuito de Deep Learning):
+
+Curso Prático de Deep Learning para Programadores
+TensorFlow (Documentação e Tutoriais):
+
+TensorFlow Tutorials

@@ -46,7 +46,11 @@
 Descrição do seu projeto...
 
 Restante do conteúdo do README.md...
+<<<<<<< HEAD
 =======
+=======
+====================================
+>>>>>>> 41b4345d7404dcc9c1676da5405bbcc3739b41b2
 
 # Seja Bem-Vindo ao Meu GitHub
 
